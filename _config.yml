@@ -10,7 +10,7 @@ email: gael.many@outlook.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to my personnal website!
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> witha <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme (thanks for the work 🙏).
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme (thanks for the work 🙏).
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub.
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
