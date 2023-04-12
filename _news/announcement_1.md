@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-02-03
 inline: true
 ---
 
-A simple inline announcement.
+<a class="twitter-timeline" data-height="600" data-theme="dark" href="https://twitter.com/GaelMANY?ref_src=twsrc%5Etfw">Tweets by GaelMANY</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

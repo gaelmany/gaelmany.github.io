@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: In situ particle characterization
+description: This project developed during my PhD and my following post-doc at SHOM consisted on the use of in situ images of suspended sediement particles, such as flocs of fine-sediment, to characterize their properties during a flood of the Rhône River in the region of freshwater influence in the Gulf of Lion. Here, an introduction of the instrument that permit to get the images and the following processing steps are presented.
+img: assets/img/proj2/img1.jpg
 importance: 2
 category: work
 ---
