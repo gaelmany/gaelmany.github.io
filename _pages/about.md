@@ -19,7 +19,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Test to see if that change something when i write commit and push and deploy again ....
+Test to see if that change something when i write, commit, push and deploy again ....
 
 After graduating from a Master degree in Marine Geosciences and Aquatic Environments from the University of Perpignan, I obtained my PhD from the same university at <a href="https://cefrem.univ-perp.fr/">CEFREM</a> under the supervision of <a href="https://cefrem.univ-perp.fr/index.php/personnel/2-non-categorise/66-durrieu">Xavier Durrieu de Madron</a> and <a href="https://cefrem.univ-perp.fr/index.php/personnel/27-chercheurs/65-francois">Francois Bourrin</a>. I was then a post-doctoral researcher at <a href="https://www.shom.fr/">SHOM</a> (Brest) in Frederic Jourdin’s group, and at the University of Toulouse Sabatier in Caroline Ulses’ group (<a href="https://www.legos.omp.eu/">LEGOS</a>). I then moved to Lausanne to take up a post-doc position at the <a href="https://www.unil.ch/index.html">University of Lausanne</a> in 2021, where I was a post-doctoral researcher in limnology in <a href="https://www.unil.ch/gse/fr/home/menuinst/vie-facultaire/promotions--nominations/perga-marie-elodie.html">Marie-Elodie Perga</a>'s group (<a href="https://wp.unil.ch/lakes/">LAKES</a>). I am now working as a post-doc at <a href="https://www.eawag.ch/fr/">EAWAG</a> in <a href="https://www.eawag.ch/en/department/surf/main-focus/remote-sensing/">Daniel Odermatt</a>'s group.  
 
